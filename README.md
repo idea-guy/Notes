@@ -43,3 +43,14 @@ From Intro to Javsacript to Javascript
 <h3 style="text-align: left">text </h3> <!--This aligns text to the left side of the page -->
 <strong> </strong> <!--This makes the a text bold -->
 <em> </em> <!--This italicizes a word-->
+
+<!--TABLES -->
+<table> </table> <!--Always add this tag before creating a table -->
+  <tr> </tr> <!-- This is added in between table tags and it creates a row -->
+  <tr> </tr> <!-- More tr you add, more rows you create -->
+    <td> boy </td> <!--In between tr,you can add a table date "boy" using the <td> -->
+    <td> frank </td> <!-- You can add another table data, making it a 2nd column -->
+<thead> <!-- This formats the heading -->
+<th> <!--This creates bold header-->
+<tbody> <!-- creates body of table -->
+<th colspan ="2"> <!-- Makes the header occupy two columns -->
