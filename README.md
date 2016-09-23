@@ -34,7 +34,12 @@ From Intro to Javsacript to Javascript
   
 <ul> <ul> <!-- creates unordered list -->
 
-<!-- Note that you can have UL nested inside OL and vice versa
+<!-- Note that you can have UL nested inside OL and vice versa -->
 
+<p style ="font-size: 10px"> text </p> <!--This makes the font size of text 10px-->
+<p style ="color: red; font-size; 10px"> text </p> <!--This turns text to red and makes size 10px-->
 
-
+<body style="background-color: green"> </body> <!-- This turns the background color of the page green-->
+<h3 style="text-align: left">text </h3> <!--This aligns text to the left side of the page -->
+<strong> </strong> <!--This makes the a text bold -->
+<em> </em> <!--This italicizes a word-->
