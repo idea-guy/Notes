@@ -54,4 +54,7 @@ From Intro to Javsacript to Javascript
 <th> <!--This creates bold header-->
 <tbody> <!-- creates body of table -->
 <th colspan ="2"> <!-- Makes the header occupy two columns -->
-<dv></dv> <!-- This divides webpage into containers (boxes) -->
+
+<dv></dv> <!-- This divides webpage into containers (boxes). They can be styled up. Check following lines-->
+<div style= "width: 10px; height: 10px; background color: red"> </div>
+
