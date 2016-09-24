@@ -57,4 +57,37 @@ From Intro to Javsacript to Javascript
 
 <dv></dv> <!-- This divides webpage into containers (boxes). They can be styled up. Check following lines-->
 <div style= "width: 10px; height: 10px; background color: red"> </div>
+<a href>  <!-- put div in between this to link the container-->
 
+<span> <!-- use span to style a text -->
+
+<!-- SAMPLE PROJECT THAT CREATES A clickable PHOTO ALBUM -->
+<!-- Add photo links and href to see magic-->
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css" />
+		<title>My Photo Page</title>
+	</head>
+	<body>
+	    <table>
+	    <thead>
+	        <th>Check</th>
+	    </thead>
+	        <tbody>
+	            <tr>
+	                <td></td><td></td><td></td>
+	            </tr>
+	            <tr>
+	                <td></td><td></td><td></td>
+	            </tr>
+	            <tr>
+	                <td></td><td></td><td></td>
+	            </tr>
+	        </tbody>
+	    </table>
+	</body>
+</html>
+
+<!-- FINALLY CSS -->
