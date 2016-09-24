@@ -1,3 +1,26 @@
 /* This is a comment */
 
 /* My name is Tochukwu Obikwere and I am finally in CSS */
+
+/* To begin with CSS, you link up your HTML file to it. See codes below */
+<link type="text/css" rel ="stylesheet" href="stylesheet.css"/> /*This link goes on the head*/
+
+{} /* This formats a tag. See next line for eg */
+
+{p
+  color: red;
+}  /* This turns the color red */
+
+font-family: cursive /*This changes font to cursive */
+font-size: 100px /*Changes size to 100px */
+
+/*Style in HTML. You can do so by formatting the header. See below */
+<head>
+		<style>
+			p {
+				color: purple;
+			  }
+	</style>
+	<title>Result</title>
+</head> /*This turns the color of any paragraph to purple */
+
