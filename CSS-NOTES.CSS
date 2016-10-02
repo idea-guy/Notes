@@ -7,7 +7,7 @@
 
 {} /* This formats a tag. See next line for eg */
 
-{p
+p{
   color: red;
 }  /* This turns the color red */
 
@@ -23,4 +23,17 @@ font-size: 100px /*Changes size to 100px */
 	</style>
 	<title>Result</title>
 </head> /*This turns the color of any paragraph to purple */
+
+
+img {
+      width: 300px;
+      height: 300px;
+      border-radius: 50%;
+} </* This makes profle pic circular" */
+
+td{border: 1px dotted black;
+} /* this makes the border of the table to be 1px, dotted and black in color */
+
+div > ul > li > p{} /*This styles the paragraph directly nested inside div, ul and li */
+div div p {} /*This styles elements nested inside p*/
 
